@@ -41,7 +41,7 @@ void MyRunAction::EndOfRunAction(const G4Run* run)
         runFileName << "output_Run" << runID << ".txt"; // nume fisiere de output cu dozele dupa fiecare Run
         
         std::ofstream runOutputFile(runFileName.str());
-        runOutputFile << " ===== REZULTAT RUN" << runID << " =====\n";
+        runOutputFile << " ===== REZULTAT (Gy/NPS) RUN" << runID << " =====\n";
         runOutputFile << G4BestUnit(meanDose, "Dose") << "  " << G4BestUnit(err, "Dose") << "\n";
         runOutputFile.close();
 }
