@@ -1,0 +1,10 @@
+/control/verbose 0
+/event/verbose 0
+/gps/verbose 0
+#
+/gps/particle neutron
+/gps/pos/type Point
+/gps/pos/centre 0 0 0 cm
+/gps/ang/type iso
+/gps/ene/type Mono
+/gps/ene/mono 3 MeV
