@@ -1,0 +1,68 @@
+/control/verbose 0
+/event/verbose 0
+/gps/verbose 0
+#
+/gps/particle neutron
+#
+/gps/pos/type Point
+/gps/pos/centre 0 0 0 cm
+#
+/gps/ang/type iso
+#
+/gps/ene/type User
+/gps/hist/type energy
+#
+/gps/hist/point 4.14e-7 0
+/gps/hist/point 0.11 1.436e-2
+/gps/hist/point 0.33 3.340e-2
+/gps/hist/point 0.54 3.127e-2
+/gps/hist/point 0.75 2.812e-2
+/gps/hist/point 0.97 2.500e-2
+/gps/hist/point 1.18 2.136e-2
+/gps/hist/point 1.40 1.983e-2
+/gps/hist/point 1.61 1.747e-2
+/gps/hist/point 1.82 1.925e-2
+/gps/hist/point 2.04 2.225e-2
+/gps/hist/point 2.25 2.146e-2
+/gps/hist/point 2.47 2.248e-2
+/gps/hist/point 2.68 2.277e-2
+/gps/hist/point 2.90 2.951e-2
+/gps/hist/point 3.11 3.559e-2
+/gps/hist/point 3.32 3.685e-2
+/gps/hist/point 3.54 3.458e-2
+/gps/hist/point 3.75 3.066e-2
+/gps/hist/point 3.97 2.999e-2
+/gps/hist/point 4.18 2.691e-2
+/gps/hist/point 4.39 2.863e-2
+/gps/hist/point 4.61 3.178e-2
+/gps/hist/point 4.82 3.074e-2
+/gps/hist/point 5.04 3.334e-2
+/gps/hist/point 5.25 3.041e-2
+/gps/hist/point 5.47 2.738e-2
+/gps/hist/point 5.68 2.332e-2
+/gps/hist/point 5.89 2.059e-2
+/gps/hist/point 6.11 1.815e-2
+/gps/hist/point 6.32 1.767e-2
+/gps/hist/point 6.54 2.039e-2
+/gps/hist/point 6.75 1.830e-2
+/gps/hist/point 6.96 1.630e-2
+/gps/hist/point 7.18 1.677e-2
+/gps/hist/point 7.39 1.681e-2
+/gps/hist/point 7.61 1.883e-2
+/gps/hist/point 7.82 1.837e-2
+/gps/hist/point 8.03 1.688e-2
+/gps/hist/point 8.25 1.435e-2
+/gps/hist/point 8.46 9.677e-3
+/gps/hist/point 8.68 6.521e-3
+/gps/hist/point 8.89 4.255e-3
+/gps/hist/point 9.11 3.667e-3
+/gps/hist/point 9.32 3.806e-3
+/gps/hist/point 9.53 5.058e-3
+/gps/hist/point 9.75 6.253e-3
+/gps/hist/point 9.96 5.519e-3
+/gps/hist/point 10.18 4.675e-3
+/gps/hist/point 10.39 3.696e-3
+/gps/hist/point 10.60 2.781e-3
+/gps/hist/point 10.82 1.514e-3
+/gps/hist/point 11.03 3.633e-4
+/gps/hist/point 11.09 0
